@@ -16,10 +16,12 @@ place = input("Enter a place: ")
 verb = input("Enter a verb: ")
 skill = input("Enter one skill you have: ")
 
-print("" + name + " was thinking of a place to travel to. Their mother said why not " + place + "?"
+print("     ")
+print("" + name + " was thinking of a place to travel to. Their mother said why not " + place + "?")
 
-print("" + name + " thought that idea was really amazing! Her mom gave her breakfast that consisted of " + food1 + " and " + food2 + "."
+print("" + name + " thought that idea was really amazing! Her mom gave her breakfast that consisted of " + food1 + " and " + food2 + ".")
 
-print("" + name + " will have to practice her " + skill + " " + adverb + " to make it harder to " + verb + " with humans."
+print("     ")
+print("" + name + " will have to practice their " + skill + " " + adverb + " to make it harder to " + verb + " with humans.")
 
-print("" + name + " has a short journey of places to see, including the " + noun + " house and the " + color + " sky."
+print("" + name + " has a short journey of places to see, including the " + noun + " house and the " + color + " sky.")
